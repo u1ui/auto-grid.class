@@ -3,8 +3,9 @@
     display:flex;
     flex-wrap:wrap;
     --u1-Items-width: 10rem;
-    --u1-Col-gap: var(--gap, 1rem);
-    --u1-Row-gap: var(--gap, 1rem);
+    --u1-Gap: var(--gap, 1rem);
+    --u1-Col-gap: var(--u1-Gap);
+    --u1-Row-gap: var(--u1-Gap);
 
     column-gap:var(--u1-Col-gap);
     row-gap:var(--u1-Row-gap);
