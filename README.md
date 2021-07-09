@@ -1,7 +1,7 @@
 # auto-grid.css
 
 
-handy util-clas to make a auto-column grid
+handy util-class to make a auto-column grid
 
 - default gap (from classless.css variables)
 - respecting available-space if item-(min)-width > available
