@@ -13,7 +13,7 @@
 .u1-auto-grid > * {
     /* display:block; why? zzz */
     flex-basis:var(--u1-Items-width);
-    box-sizing:border-box;
+    box-sizing:border-box; /* needed if standalone? Actually included in base.css  */
 }
 
 @supports (display: grid) {
