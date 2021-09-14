@@ -11,7 +11,7 @@
     row-gap:var(--u1-Row-gap);
 }
 .u1-auto-grid > * {
-    display:block;
+    /* display:block; why? zzz */
     flex-basis:var(--u1-Items-width);
     box-sizing:border-box;
 }
