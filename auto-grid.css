@@ -1,7 +1,7 @@
 /* needed as base for js */
 .u1-auto-grid {
     --u1-Items-width: 10rem;
-    --u1-Gap: var(--gap, 1rem);
+    --u1-Gap: 1rem;
     --u1-Col-gap: var(--u1-Gap);
     --u1-Row-gap: var(--u1-Gap);
     display: grid;
