@@ -18,6 +18,7 @@ handy util-class to make a auto-column grid
 </div>
 ```
 
-## Demo
+## Demos
+https://raw.githack.com/u1ui/auto-grid.class/main/tests/minimal.html  
 https://raw.githack.com/u1ui/auto-grid.class/main/tests/test.html  
 
