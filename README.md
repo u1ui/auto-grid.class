@@ -29,8 +29,8 @@ handy util-class to make a auto-column grid
 
 ## Demos
 
-https://raw.githack.com/u1ui/auto-grid.class/main/tests/minimal.html  
-https://raw.githack.com/u1ui/auto-grid.class/main/tests/test.html  
+[minimal.html](https://raw.githack.com/u1ui/auto-grid.class/main/tests/minimal.html)  
+[test.html](https://raw.githack.com/u1ui/auto-grid.class/main/tests/test.html)  
 
 ## About
 
