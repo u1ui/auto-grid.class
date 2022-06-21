@@ -1,7 +1,6 @@
 # .u1-auto-grid - class
 Most used case for grid-elements
 
-
 handy util-class to make a auto-column grid
 
 - default gap (from classless.css variables)
@@ -22,17 +21,13 @@ handy util-class to make a auto-column grid
 </div>
 ```
 
-## Demos
-https://raw.githack.com/u1ui/auto-grid.class/main/tests/minimal.html  
-https://raw.githack.com/u1ui/auto-grid.class/main/tests/test.html  
-
 ## Install
 
 ```html
 <link href="https://cdn.jsdelivr.net/gh/u1ui/auto-grid.class@3.0.0/auto-grid.min.css" rel=stylesheet>
 ```
 
-## Demo
+## Demos
 
 https://raw.githack.com/u1ui/auto-grid.class/main/tests/minimal.html  
 https://raw.githack.com/u1ui/auto-grid.class/main/tests/test.html  
