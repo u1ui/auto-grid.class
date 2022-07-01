@@ -21,6 +21,18 @@ handy util-class to make a auto-column grid
 </div>
 ```
 
+```css
+.u1-auto-grid {
+    --u1-Gap:2rem;
+    --u1-Col-gap:1rem;
+    --u1-Items-width:8rem;
+}
+.u1-auto-grid > * {
+    border:1px solid black;
+    padding:.5em;
+}
+```
+
 ## Install
 
 ```html
@@ -29,8 +41,8 @@ handy util-class to make a auto-column grid
 
 ## Demos
 
-[minimal.html](https://raw.githack.com/u1ui/auto-grid.class/main/tests/minimal.html)  
-[test.html](https://raw.githack.com/u1ui/auto-grid.class/main/tests/test.html)  
+[minimal.html](http://gcdn.li/u1ui/auto-grid.class@main/tests/minimal.html)  
+[test.html](http://gcdn.li/u1ui/auto-grid.class@main/tests/test.html)  
 
 ## About
 
