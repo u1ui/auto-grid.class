@@ -36,7 +36,7 @@ handy util-class to make a auto-column grid
 ## Install
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/u1ui/auto-grid.class@3.0.0/auto-grid.min.css" rel=stylesheet>
+<link href="https://cdn.jsdelivr.net/gh/u1ui/auto-grid.class@x.x.x/auto-grid.min.css" rel=stylesheet>
 ```
 
 ## Demos
