@@ -1,5 +1,5 @@
 # .u1-auto-grid - class
-Most used case for grid-elements
+(deprecated) use grid.class instead
 
 handy util-class to make a auto-column grid
 
